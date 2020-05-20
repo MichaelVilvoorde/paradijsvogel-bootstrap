@@ -2,10 +2,31 @@
 font-family: 'Average', serif; */
 
 body {
-    font-family: "Average", serif;
+    font-family: 'Playfair Display SC', serif;
+    font-family: 'Average', serif;
 }
 
-h1,
+.navbar {
+    box-shadow: 2px 4px 2px #FD8502;
+}
+
+#slider {
+    margin-top: 75px;
+}
+
+
+/* #header_pic {
+    z-index: -10;
+    position: absolute;
+    background: cover;
+}
+
+.relative {
+    position: relative;
+    background-color: pink;
+} */
+
+*/ h1,
 h2,
 h3,
 h4,
