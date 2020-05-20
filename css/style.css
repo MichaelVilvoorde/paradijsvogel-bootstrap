@@ -7,24 +7,14 @@ body {
 }
 
 .navbar {
-    box-shadow: 2px 4px 2px #FD8502;
+    box-shadow: 0px 3px 5px rgb(235, 122, 1);
 }
 
-#slider {
-    margin-top: 75px;
+.margin-top {
+    /* margin-top on md or smaller 
+    mt-5 was niet genoeg*/
+    margin-top: 70px;
 }
-
-
-/* #header_pic {
-    z-index: -10;
-    position: absolute;
-    background: cover;
-}
-
-.relative {
-    position: relative;
-    background-color: pink;
-} */
 
 */ h1,
 h2,
